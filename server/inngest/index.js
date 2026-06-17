@@ -334,7 +334,7 @@ const sendShowNotification = inngest.createFunction(
   </p>
 
   <div style="margin: 24px 0; text-align: center;">
-    <a href="https://quickshow-six-alpha.vercel.app/" style="background-color: #4CAF50; color: #ffffff; padding: 12px 20px; text-decoration: none; border-radius: 6px; font-size: 14px;">
+    <a href="https://quickshow-hazel-beta.vercel.app/" style="background-color: #4CAF50; color: #ffffff; padding: 12px 20px; text-decoration: none; border-radius: 6px; font-size: 14px;">
       Book Now
     </a>
   </div>
